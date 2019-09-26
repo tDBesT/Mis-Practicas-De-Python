@@ -1,0 +1,23 @@
+n1 = int(input("Digita el Primer numero: "))
+
+n2 = int(input("Digita el Segundo numero: "))
+
+if n1 == n2:
+
+    print("Son Iguales")
+
+elif n1 > n2:
+
+    print("El primero es Mayor")
+
+else:
+
+    print("El segundo es Mayor")
+
+if n1 < n2:
+
+    print("El primero es Menor")
+
+else:
+
+    print("El segundo es Menor")
