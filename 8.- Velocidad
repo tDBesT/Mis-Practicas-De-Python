@@ -1,0 +1,4 @@
+print("Un Kilometro es una Hora caminando")
+velocidad = input ('Introduce la Velocidad en "Kilometros": ')
+
+tiempo = input(f"Te tardarias {velocidad} Hora(s) en llegar a tu Destino")
