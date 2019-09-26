@@ -1,0 +1,3 @@
+nombre = input("Digite un Dato: ")
+
+print(F"El Dato es: {nombre}")
